@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/hero-neon.svg" alt="Portada Finance Lab: esmeralda, ámbar y azul" width="100%" />
+
 # 📊 Evaluador de Viabilidad Financiera
 
 ### Proyecciones, indicadores y escenarios para decisiones de negocio
