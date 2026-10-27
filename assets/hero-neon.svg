@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Portada Finance Lab de tonos verde esmeralda y ámbar">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071827"/><stop offset=".52" stop-color="#0F3052"/><stop offset="1" stop-color="#18412F"/></linearGradient>
+ <linearGradient id="rule" x1="0" x2="1"><stop offset="0" stop-color="#2DD4BF"/><stop offset=".48" stop-color="#FBBF24"/><stop offset="1" stop-color="#FB7185"/></linearGradient>
+ <radialGradient id="haze"><stop offset="0" stop-color="#2DD4BF" stop-opacity=".26"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient>
+ <radialGradient id="haze2"><stop offset="0" stop-color="#FBBF24" stop-opacity=".24"/><stop offset="1" stop-color="#FBBF24" stop-opacity="0"/></radialGradient>
+ <clipPath id="round"><rect width="1200" height="380" rx="26"/></clipPath>
+</defs>
+<g clip-path="url(#round)">
+ <rect width="1200" height="380" fill="url(#bg)"/>
+ <circle cx="204" cy="31" r="270" fill="url(#haze)"/>
+ <circle cx="1045" cy="298" r="280" fill="url(#haze2)"/>
+ <path d="M520 0 L1200 0 L1200 380 L860 380Z" fill="#FFFFFF" fill-opacity=".023"/>
+ <line x1="730" y1="0" x2="730" y2="380" stroke="#FFFFFF" stroke-opacity=".035"/><line x1="785" y1="0" x2="785" y2="380" stroke="#FFFFFF" stroke-opacity=".035"/><line x1="840" y1="0" x2="840" y2="380" stroke="#FFFFFF" stroke-opacity=".035"/><line x1="895" y1="0" x2="895" y2="380" stroke="#FFFFFF" stroke-opacity=".035"/><line x1="950" y1="0" x2="950" y2="380" stroke="#FFFFFF" stroke-opacity=".035"/><line x1="1005" y1="0" x2="1005" y2="380" stroke="#FFFFFF" stroke-opacity=".035"/><line x1="1060" y1="0" x2="1060" y2="380" stroke="#FFFFFF" stroke-opacity=".035"/><line x1="1115" y1="0" x2="1115" y2="380" stroke="#FFFFFF" stroke-opacity=".035"/><line x1="720" y1="26" x2="1200" y2="26" stroke="#FFFFFF" stroke-opacity=".035"/><line x1="720" y1="82" x2="1200" y2="82" stroke="#FFFFFF" stroke-opacity=".035"/><line x1="720" y1="138" x2="1200" y2="138" stroke="#FFFFFF" stroke-opacity=".035"/><line x1="720" y1="194" x2="1200" y2="194" stroke="#FFFFFF" stroke-opacity=".035"/><line x1="720" y1="250" x2="1200" y2="250" stroke="#FFFFFF" stroke-opacity=".035"/><line x1="720" y1="306" x2="1200" y2="306" stroke="#FFFFFF" stroke-opacity=".035"/><line x1="720" y1="362" x2="1200" y2="362" stroke="#FFFFFF" stroke-opacity=".035"/>
+ <path d="M0 0 H1200" stroke="url(#rule)" stroke-width="9"/>
+ <path d="M0 376 H1200" stroke="url(#rule)" stroke-opacity=".85" stroke-width="4"/>
+ <rect x="58" y="59" width="10" height="26" rx="5" fill="#FBBF24"/>
+ <text x="85" y="78" font-family="Arial,sans-serif" font-size="16" letter-spacing="3.4" font-weight="700" fill="#FBBF24">ARVI17  /  ANALÍTICA EMPRESARIAL</text>
+ <text x="62" y="166" font-family="Arial,sans-serif" font-size="76" letter-spacing="-2.2" font-weight="900" fill="#FFFFFF">FINANCE LAB</text>
+ <rect x="64" y="185" width="310" height="5" rx="2.5" fill="url(#rule)"/>
+ <text x="64" y="234" font-family="Arial,sans-serif" font-size="22" font-weight="600" fill="#DAE9FA">Decisiones financieras con mejores datos</text>
+ <text x="64" y="268" font-family="Arial,sans-serif" font-size="17" font-weight="400" fill="#A9C2D9">Proyecciones a cinco años · indicadores · sensibilidad</text>
+ <rect x="72" y="305" width="118" height="38" rx="19" fill="#2DD4BF" fill-opacity=".14" stroke="#2DD4BF" stroke-opacity=".55"/><text x="131" y="330" text-anchor="middle" font-size="14" font-family="Arial,sans-serif" font-weight="700" letter-spacing=".5" fill="#EFF6FF">VPN / NPV</text>
+<rect x="202" y="305" width="118" height="38" rx="19" fill="#2DD4BF" fill-opacity=".14" stroke="#2DD4BF" stroke-opacity=".55"/><text x="261" y="330" text-anchor="middle" font-size="14" font-family="Arial,sans-serif" font-weight="700" letter-spacing=".5" fill="#EFF6FF">TIR / IRR</text>
+<rect x="332" y="305" width="118" height="38" rx="19" fill="#2DD4BF" fill-opacity=".14" stroke="#2DD4BF" stroke-opacity=".55"/><text x="391" y="330" text-anchor="middle" font-size="14" font-family="Arial,sans-serif" font-weight="700" letter-spacing=".5" fill="#EFF6FF">ROI</text>
+<rect x="462" y="305" width="118" height="38" rx="19" fill="#2DD4BF" fill-opacity=".14" stroke="#2DD4BF" stroke-opacity=".55"/><text x="521" y="330" text-anchor="middle" font-size="14" font-family="Arial,sans-serif" font-weight="700" letter-spacing=".5" fill="#EFF6FF">PAYBACK</text>
+ <g transform="translate(780 65)">
+ <rect width="355" height="252" rx="24" fill="#080F23" fill-opacity=".72" stroke="#2DD4BF" stroke-opacity=".45" stroke-width="2"/>
+ <text x="26" y="40" fill="#E2E8F0" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">PROYECCIÓN / 5 AÑOS</text>
+ <rect x="26" y="56" width="305" height="1" fill="#334155"/>
+ <line x1="32" x2="326" y1="86" y2="86" stroke="#62758A" stroke-opacity=".2"/><line x1="32" x2="326" y1="126" y2="126" stroke="#62758A" stroke-opacity=".2"/><line x1="32" x2="326" y1="166" y2="166" stroke="#62758A" stroke-opacity=".2"/><line x1="32" x2="326" y1="206" y2="206" stroke="#62758A" stroke-opacity=".2"/>
+ <path d="M36 208 L95 186 L152 169 L209 180 L268 105 L324 74" stroke="#2DD4BF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+ <path d="M36 208 L95 186 L152 169 L209 180 L268 105 L324 74 L324 219 L36 219Z" fill="#2DD4BF" fill-opacity=".09"/>
+ <path d="M36 192 L95 198 L152 147 L209 157 L268 151 L324 91" stroke="#FBBF24" stroke-width="3" stroke-dasharray="6 9" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+ <circle cx="324" cy="74" r="8" fill="#2DD4BF" stroke="white" stroke-width="2"/>
+ <text x="26" y="237" fill="#B6C9DA" font-family="Arial,sans-serif" font-size="12">Escenarios ilustrativos · Sin valores reales</text>
+ </g>
+</g>
+<rect x="1.25" y="1.25" width="1197.5" height="377.5" rx="25" fill="none" stroke="#2DD4BF" stroke-opacity=".23" stroke-width="2.5"/>
+</svg>
